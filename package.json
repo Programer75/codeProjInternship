@@ -1,0 +1,20 @@
+{
+  "name": "codeprojinternship",
+  "version": "1.0.0",
+  "description": "simple project",
+  "homepage": "https://github.com/Programer75/codeProjIntership#readme",
+  "bugs": {
+    "url": "https://github.com/Programer75/codeProjIntership/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programer75/codeProjIntership.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Programer75",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  }
+}
